@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Birmenu QR Menu
 - 🤔 I’m looking for help with  
 - 💬 Ask me about c# ,Asp.Net.Core ,Javascipt,RabidMq,Redis,DevExpress ,DevExtreme ,Angular, etc
-- 📫 How to reach me: levent19782003@gmail.com ,ltopcu@milestruzim.com
+- 📫 How to reach me: levent19782003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I play game(FPS) ,Shooter ,
 
