@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ucuz Uçur
+- 🔭 I’m currently working on RMT Tech
 - 🌱 I’m currently learning  React Native
 - 👯 I’m looking to collaborate on Birmenu QR Menu
 - 🤔 I’m looking for help with  
