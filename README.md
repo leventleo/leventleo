@@ -16,8 +16,7 @@ Here are some ideas to get you started:
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fcsharp-2-1175242.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fcsharp-2&tbnid=IdeBHDzTYuH_-M&vet=12ahUKEwj9qratiaT4AhXuk_0HHVSIC0QQMygBegUIARC0AQ..i&docid=CiVmHE6fnVW-8M&w=256&h=256&q=google%20c%23%20logo%20icon&hl=tr&ved=2ahUKEwj9qratiaT4AhXuk_0HHVSIC0QQMygBegUIARC0AQ"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fcsharp-2-1175242.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fcsharp-2&tbnid=IdeBHDzTYuH_-M&vet=12ahUKEwj9qratiaT4AhXuk_0HHVSIC0QQMygBegUIARC0AQ..i&docid=CiVmHE6fnVW-8M&w=256&h=256&q=google%20c%23%20logo%20icon&hl=tr&ved=2ahUKEwj9qratiaT4AhXuk_0HHVSIC0QQMygBegUIARC0AQ"> 
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=""> 
-</picture>
+ 
 
