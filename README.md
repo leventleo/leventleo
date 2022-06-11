@@ -33,41 +33,41 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465">
   <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465" >
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture> <br/>
+</picture> <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://styles.redditmedia.com/t5_52x52t/styles/communityIcon_md5duakrzbp71.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://styles.redditmedia.com/t5_52x52t/styles/communityIcon_md5duakrzbp71.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://styles.redditmedia.com/t5_52x52t/styles/communityIcon_md5duakrzbp71.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://styles.redditmedia.com/t5_52x52t/styles/communityIcon_md5duakrzbp71.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="100">
-  <source media="(prefers-color-scheme: dark)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="80">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>  <br/><br/>
 
