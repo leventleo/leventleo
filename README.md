@@ -42,10 +42,8 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.shareicon.net/download/2016/07/10/119473_development.ico
-" width="80">
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.shareicon.net/download/2016/07/10/119473_development.ico
-" width="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="80">
+  <source media="(prefers-color-scheme: dark)" srcset="https://miro.medium.com/max/400/1*ktJUMJO60oHoluiEV6KBmA.png" width="50">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> <br/>
 
