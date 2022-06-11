@@ -51,6 +51,12 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="100">
   <source media="(prefers-color-scheme: dark)" srcset="https://www.kindpng.com/picc/m/29-294143_redis-logo-png-transparent-png.png" width="100">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="100">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="100">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> <br/>
 
  
