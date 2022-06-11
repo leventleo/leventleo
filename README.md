@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 </picture> <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465">
-  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465">
+  <source media="(prefers-color-scheme: light)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://btholt.github.io/complete-intro-to-react-v7/images/course-icon.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> <br/>
 
