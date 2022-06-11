@@ -69,7 +69,9 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="100">
   <source media="(prefers-color-scheme: dark)" srcset="https://mountainss.files.wordpress.com/2018/04/azure-icon.png" width="100">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>  
+</picture>  <br/><br/>
+
+<hr/>
 
 <a href="https://www.linkedin.com/in/leventleo/">
 
